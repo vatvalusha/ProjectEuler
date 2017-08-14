@@ -92,6 +92,8 @@ public class Euler_Tasks {
     public static void main(String[] args) {
 //        System.out.println(sumSquareDifference());
 //        System.out.println(primeNumber());
-        largestProductInASeries();
+//        largestProductInASeries();
+        System.out.println(Special_Pythagorean_Triplet.genegerateNumbers());
+        System.out.println(200*375*425);
     }
 }
