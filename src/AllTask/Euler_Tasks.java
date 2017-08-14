@@ -93,7 +93,8 @@ public class Euler_Tasks {
 //        System.out.println(sumSquareDifference());
 //        System.out.println(primeNumber());
 //        largestProductInASeries();
-        System.out.println(Special_Pythagorean_Triplet.genegerateNumbers());
-        System.out.println(200*375*425);
+//        System.out.println(Special_Pythagorean_Triplet.genegerateNumbers());
+//        System.out.println(200*375*425);
+        FindSumPrime.findPrime();
     }
 }
